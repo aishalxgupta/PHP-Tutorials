@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello World!";
+// echo == print
+echo "Hello  <br> <b>World!</b>";
 
 ?>
